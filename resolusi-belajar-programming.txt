@@ -5,7 +5,7 @@ Front-End Developer
 - CSS
 - JAVASCRIPT
   * Framework
-  ^ React Js
+  ^ vue js
 
 Back-End Developer
 - JAVASCRIPT
