@@ -1,0 +1,17 @@
+berikut ini adalah resolusi-belajar kami :
+
+Front-End Developer
+- HTML
+- CSS
+- JAVASCRIPT
+  * Framework
+  ^ Bootstrap
+  ^ React Js
+
+Back-End Developer
+- JAVASCRIPT
+- JAVA
+- PHP
+* Framework
+  ^ Laravel
+  ^ codeigniter
