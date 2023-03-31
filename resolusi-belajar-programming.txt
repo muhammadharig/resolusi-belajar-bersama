@@ -15,3 +15,8 @@ Back-End Developer
 * Framework
   ^ Laravel
   ^ codeigniter
+  
+Android Mobile Developer
+-Kotlin
+-java
+-dart
