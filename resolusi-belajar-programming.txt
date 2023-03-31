@@ -15,7 +15,6 @@ Back-End Developer
 * Framework
   ^ Laravel
   ^ codeigniter
-  ^ spiringboot
   
 Android Mobile Developer
 -Kotlin
