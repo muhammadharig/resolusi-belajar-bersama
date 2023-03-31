@@ -4,8 +4,10 @@ Front-End Developer
 - HTML
 - CSS
 - JAVASCRIPT
+- TYPESCRIPT
   * Framework
   ^ React Js
+  ^ Bootstrap
 
 Back-End Developer
 - JAVASCRIPT
