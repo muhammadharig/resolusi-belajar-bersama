@@ -4,9 +4,12 @@ Front-End Developer
 - HTML
 - CSS
 - JAVASCRIPT
+- TYPESCRIPT
   * Framework
   ^ vue js
-
+  ^ React Js
+  ^ Bootstrap
+  
 Back-End Developer
 - JAVASCRIPT
 - JAVA
