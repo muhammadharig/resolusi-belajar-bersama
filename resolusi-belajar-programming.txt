@@ -14,7 +14,6 @@ Back-End Developer
 - PHP
 * Framework
   ^ Laravel
-  ^ spring 
   ^ codeigniter
   
 Android Mobile Developer
