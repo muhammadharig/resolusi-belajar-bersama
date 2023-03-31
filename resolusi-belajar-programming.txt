@@ -5,7 +5,7 @@ Front-End Developer
 - CSS
 - JAVASCRIPT
   * Framework
-  ^ Bootstrap
+  ^ tailwind css
   ^ React Js
 
 Back-End Developer
@@ -14,6 +14,7 @@ Back-End Developer
 - PHP
 * Framework
   ^ Laravel
+  ^ spring 
   ^ codeigniter
   
 Android Mobile Developer
